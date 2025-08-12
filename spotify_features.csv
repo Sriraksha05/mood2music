@@ -1,0 +1,43 @@
+track,artist,id,language,valence,energy,tempo,danceability,preview_url,album_image_url
+track,artist,id,language,valence,energy,tempo,danceability,preview_url,album_image_url
+Belageddu,Vijay Prakash,1,kannada,0.82,0.74,96,0.78,https://p.scdn.co/mp3-preview/kannada1,https://i.scdn.co/image/kannada1
+Karunadu Thanantheya,Hemanth Kumar,2,kannada,0.68,0.59,92,0.65,https://p.scdn.co/mp3-preview/kannada2,https://i.scdn.co/image/kannada2
+Madhurame,Mahesh Raghvan,3,kannada,0.74,0.71,100,0.69,https://p.scdn.co/mp3-preview/kannada3,https://i.scdn.co/image/kannada3
+Jeeva Hoovagide,SP Balasubrahmanyam,4,kannada,0.85,0.62,88,0.73,https://p.scdn.co/mp3-preview/kannada4,https://i.scdn.co/image/kannada4
+Neene Modalu Neene Kone,Sonu Nigam,5,kannada,0.77,0.66,94,0.75,https://p.scdn.co/mp3-preview/kannada5,https://i.scdn.co/image/kannada5
+Shape of You,Ed Sheeran,6,english,0.93,0.82,96,0.82,https://p.scdn.co/mp3-preview/english1,https://i.scdn.co/image/english1
+Blinding Lights,The Weeknd,7,english,0.85,0.89,171,0.84,https://p.scdn.co/mp3-preview/english2,https://i.scdn.co/image/english2
+Perfect,Ed Sheeran,8,english,0.78,0.56,95,0.60,https://p.scdn.co/mp3-preview/english3,https://i.scdn.co/image/english3
+Levitating,Dua Lipa,9,english,0.91,0.83,103,0.85,https://p.scdn.co/mp3-preview/english4,https://i.scdn.co/image/english4
+Rolling in the Deep,Adele,10,english,0.73,0.78,104,0.65,https://p.scdn.co/mp3-preview/english5,https://i.scdn.co/image/english5
+Tum Hi Ho,Arijit Singh,11,hindi,0.54,0.48,90,0.45,https://p.scdn.co/mp3-preview/hindi1,https://i.scdn.co/image/hindi1
+Chaiyya Chaiyya,Sukhwinder Singh,12,hindi,0.88,0.76,104,0.80,https://p.scdn.co/mp3-preview/hindi2,https://i.scdn.co/image/hindi2
+Kal Ho Naa Ho,Sonu Nigam,13,hindi,0.67,0.52,84,0.50,https://p.scdn.co/mp3-preview/hindi3,https://i.scdn.co/image/hindi3
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,14,hindi,0.72,0.60,86,0.55,https://p.scdn.co/mp3-preview/hindi4,https://i.scdn.co/image/hindi4
+Badtameez Dil,Benny Dayal,15,hindi,0.91,0.88,145,0.86,https://p.scdn.co/mp3-preview/hindi5,https://i.scdn.co/image/hindi5
+Yenagali,Mahesh Raghvan,16,kannada,0.70,0.68,102,0.72,https://p.scdn.co/mp3-preview/kannada6,https://i.scdn.co/image/kannada6
+Hosanna,Vijay Prakash,17,kannada,0.76,0.70,98,0.74,https://p.scdn.co/mp3-preview/kannada7,https://i.scdn.co/image/kannada7
+Stay,The Kid LAROI,18,english,0.88,0.86,170,0.81,https://p.scdn.co/mp3-preview/english6,https://i.scdn.co/image/english6
+Someone You Loved,Lewis Capaldi,19,english,0.52,0.44,110,0.50,https://p.scdn.co/mp3-preview/english7,https://i.scdn.co/image/english7
+Senorita,Shawn Mendes,20,english,0.89,0.80,117,0.83,https://p.scdn.co/mp3-preview/english8,https://i.scdn.co/image/english8
+track,artist,id,language,valence,energy,tempo,danceability,preview_url,album_image_url
+Smile Again,Aarav Kumar,1,kannada,0.85,0.78,120,0.75,https://p.scdn.co/mp3-preview/kannada1,https://i.scdn.co/image/kannada1
+Ninna Jothe,Shreya Rao,2,kannada,0.80,0.65,105,0.70,https://p.scdn.co/mp3-preview/kannada2,https://i.scdn.co/image/kannada2
+Happy Vibes,Arjun Mehta,3,english,0.90,0.88,128,0.85,https://p.scdn.co/mp3-preview/english1,https://i.scdn.co/image/english1
+Sunny Days,Sophia Taylor,4,english,0.88,0.76,115,0.80,https://p.scdn.co/mp3-preview/english2,https://i.scdn.co/image/english2
+Udan Chhoo,Arijit Singh,5,hindi,0.87,0.72,110,0.78,https://p.scdn.co/mp3-preview/hindi1,https://i.scdn.co/image/hindi1
+Muskaan,Neha Kakkar,6,hindi,0.89,0.74,112,0.79,https://p.scdn.co/mp3-preview/hindi2,https://i.scdn.co/image/hindi2
+Solitude Night,Rajesh Bhat,7,kannada,0.20,0.35,90,0.45,https://p.scdn.co/mp3-preview/kannada3,https://i.scdn.co/image/kannada3
+Nanna Mouna,Disha Rani,8,kannada,0.25,0.40,88,0.50,https://p.scdn.co/mp3-preview/kannada4,https://i.scdn.co/image/kannada4
+Lonely Road,John Harris,9,english,0.22,0.38,92,0.46,https://p.scdn.co/mp3-preview/english3,https://i.scdn.co/image/english3
+Cold Rain,Emma Clark,10,english,0.18,0.33,85,0.42,https://p.scdn.co/mp3-preview/english4,https://i.scdn.co/image/english4
+Akele Hum,Mohit Chauhan,11,hindi,0.19,0.37,89,0.44,https://p.scdn.co/mp3-preview/hindi3,https://i.scdn.co/image/hindi3
+Raat Ki Khamoshi,Sunidhi Chauhan,12,hindi,0.23,0.39,87,0.48,https://p.scdn.co/mp3-preview/hindi4,https://i.scdn.co/image/hindi4
+Fire Within,Pranav Joshi,13,kannada,0.70,0.92,140,0.82,https://p.scdn.co/mp3-preview/kannada5,https://i.scdn.co/image/kannada5
+Chendu Kidi,Varsha Nair,14,kannada,0.72,0.95,145,0.84,https://p.scdn.co/mp3-preview/kannada6,https://i.scdn.co/image/kannada6
+Run Free,Liam Scott,15,english,0.75,0.93,150,0.86,https://p.scdn.co/mp3-preview/english5,https://i.scdn.co/image/english5
+Adrenaline Rush,Olivia Green,16,english,0.73,0.91,148,0.85,https://p.scdn.co/mp3-preview/english6,https://i.scdn.co/image/english6
+Josh Mein,Sonu Nigam,17,hindi,0.76,0.94,152,0.88,https://p.scdn.co/mp3-preview/hindi5,https://i.scdn.co/image/hindi5
+Bhaag Re,Shankar Mahadevan,18,hindi,0.74,0.96,155,0.87,https://p.scdn.co/mp3-preview/hindi6,https://i.scdn.co/image/hindi6
+Peaceful Mind,Karthik Rao,19,kannada,0.60,0.40,100,0.60,https://p.scdn.co/mp3-preview/kannada7,https://i.scdn.co/image/kannada7
+Gentle Breeze,Ananya Rao,20,english,0.62,0.42,98,0.58,https://p.scdn.co/mp3-preview/english7,https://i.scdn.co/image/english7
